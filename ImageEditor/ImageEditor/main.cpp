@@ -1,0 +1,7 @@
+#include "ImageFileReader.h"
+
+int main()
+{
+
+	return 0;
+}
