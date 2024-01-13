@@ -3,7 +3,8 @@
 #include <fstream>
 #include <vector>
 
-struct ImageData {
+struct ImageData 
+{
 	int width;
 	int height;
 	std::vector<uint8_t> data;
